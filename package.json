@@ -1,0 +1,24 @@
+{
+  "name": "online-restaurant-book-zomato-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.2.0",
+    "nodemailer": "^6.7.2",
+    "shortid": "^2.2.16"
+  }
+}
